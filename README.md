@@ -8,7 +8,7 @@
 
 The purpose of Memory Game is to provide a fun and challenging way for users to enhance their memory. With progress tracking and intuitive gameplay, the Memory Game aims to entertain and engage players.
 
-The application is deployed and available to test here: [Memory Game App](https://yourdeploymenturl.com).
+The application is deployed and available to test here: [Memory Game App](https://memorygame1234567890.web.app).
 
 ## Features
 
