@@ -1,0 +1,39 @@
+name: memory_game
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flame: ^1.6.0
+  get: ^4.6.5
+  hive_ce: 2.5.0+2
+  hive_ce_flutter: 2.0.0
+  path_provider: ^2.0.11
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/startscreen.png
+    - assets/game_desktop.png
+    - assets/game_hard.png
+    - assets/game_medium.png
+    - assets/game_tablet_play.png
+    - assets/game_tablet.png
+    - assets/gamescreen.png
+    - assets/level_completed.png
+    - assets/level_failed.png
+    - assets/levels_desktop.png
+    - assets/levels.png
+    - assets/playinggame.png
+    - assets/result.png
+    - assets/startscreen.png
